@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "name": "hritik",
+      "id": "50ee"
+    },
+    {
+      "id": "aaa1",
+      "username": "hri",
+      "email": "hri@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "4a25",
+      "username": "gt",
+      "email": "hri@gmail.com",
+      "password": "r3rrr",
+      "confirmPassword": "ererfr"
+    },
+    {
+      "id": "ebb1",
+      "username": "gvjyuughil",
+      "email": "iyg@gmail.com",
+      "password": "145r5tu",
+      "confirmPassword": "34qwsdyfugk"
+    },
+    {
+      "id": "df3b",
+      "username": "ritik",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "00a1",
+      "username": "riti",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "44b4",
+      "username": "hritik kumar",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "b37a",
+      "username": "hritikk",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "a7af",
+      "username": "hritikku",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "a0b0",
+      "username": "hritikku",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "ef70",
+      "username": "hritikku",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "32ac",
+      "username": "hritikku",
+      "email": "abc@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "f112",
+      "username": "ginni",
+      "email": "g@gmailcom",
+      "password": "12345687",
+      "confirmPassword": "12345687"
+    },
+    {
+      "id": "7ec4",
+      "username": "saksham",
+      "email": "sak@gmail.com",
+      "password": "87654321",
+      "confirmPassword": "12345678"
+    }
+  ],
+  "movies": []
+}
